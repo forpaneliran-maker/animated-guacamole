@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEPETIS BOX</string>
+    <string name="welcome">خوش آمدید به NEPETIS BOX</string>
+    <string name="description">برنامه‌ای زیبا با اثرات شیشه‌ای و انیمیشن‌های نرم</string>
+    <string name="card_title">پنجره</string>
+    <string name="card_description">این یک کارت زیبا با اثر شیشه‌ای است</string>
+</resources>
